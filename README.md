@@ -39,4 +39,19 @@ This repository provides comprehensive study materials, including theory and han
     cd ML-classification----Regression
     ```
 
+## Getting Started
+1. Install required libraries:
+    ```bash
+    pip install numpy
+    pip install pandas
+    pip install matplotlib.pyplot as plt
+
+    use scikit learn libraries for model selection, metrics calculations , and many more
+    ```
+
+2. Open the Jupyter notebooks in the `assignments/` folder to begin solving problems.
+
+## Contributing
+Feel free to submit pull requests to improve the study materials or add more assignments!
+
 

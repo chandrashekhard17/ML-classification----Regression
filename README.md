@@ -35,11 +35,8 @@ This repository provides comprehensive study materials, including theory and han
 ## How to Use This Repository
 1. Clone the repository:
     ```bash
-    git clone https://github.com/your-username/ml-study-materials.git
-    cd ml-study-materials
+    git clone [https://github.com/your-username/ml-study-materials.git](https://github.com/chandrashekhard17/ML-classification----Regression.git)
+    cd ML-classification----Regression
     ```
 
-2. Navigate to the `materials/` folder to access the study materials.
-3. The `assignments/` folder contains Jupyter notebooks and code snippets to complete the assignments.
 
-## Folder Structure
